@@ -1,0 +1,9 @@
+pandas
+numpy
+ta
+vnstock
+scikit-learn
+xgboost
+matplotlib
+plotly
+ipython
